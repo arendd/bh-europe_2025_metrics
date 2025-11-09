@@ -10,37 +10,37 @@ authors:
   - name: Nils-Christian Lübke
     orcid: 0009-0009-4801-9978
     affiliation: 1
-    role: Conceptualization, Writing – review & editing
+    role: Conceptualization, Project administration, Writing – original draft
     
   - name: Helena Schnitzer
     orcid: 0000-0002-6382-9452
     affiliation: 1
-    role: Conceptualization, Writing – review & editing
+    role: Conceptualization, Writing – original draft
     
   - name: Julia Koblitz
     orcid: 0000-0002-7260-2129
     affiliation: 2
-    role: Software, Writing – original draft
+    role: Software, Investigation, Resources, Writing – original draft
     
   - name: Saskia Lawson-Tovey
     orcid: 0000-0002-8611-162X
     affiliation: 3
-    role: Writing - original draft
+    role: Investigation, Resources, Writing - original draft
     
   - name: Kristyna Kvizdova
     orcid: 0009-0000-9827-1359
     affiliation: 4
-    role: Writing - original draft
+    role: Investigation, Resources, Writing - original draft
     
-  - name: Karel
+  - name: Karel Berka
     orcid: 0009-0000-0000-000
     affiliation: 5
-    role: Writing - original draft
+    role: Investigation, Resources, Writing - original draft
     
   - name: Séverine Duvaud
     orcid: 0000-0000-0000-0000
     affiliation: 6
-    role: Conceptualization
+    role: Conceptualization, Project administration
     
   - name: Sebastian Beier
     orcid: 0000-0002-2177-8781
@@ -50,7 +50,7 @@ authors:
   - name: Manuel Feser
     orcid: 0000-0000-0000-0000
     affiliation: 8
-    role: Software
+    role: Software, Conceptualization
     
   - name: Nicola Soranzo
     orcid: 0000-0003-3627-5340
@@ -62,20 +62,30 @@ authors:
     affiliation: 10
     role: Writing - review & editing
     
-  - name: 
+  - name: Espen
     orcid: 
     affiliation: 11
     role: 
     
-  - name: 
+  - name: David
     orcid: 
     affiliation: 12
     role:
     
+  - name: Ana
+    orcid: 
+    affiliation: 13
+    role:
+  
+  - name: 
+    orcid: 
+    affiliation: 14
+    role:
+  
   - name: Daniel Arend
     orcid: 0000-0002-2455-5938
     affiliation: 8
-    role: Conceptualization, Writing – review & editing
+    role: Conceptualization, Project administration, Writing – original draft
 
 affiliations:
   - name: Forschungszentrum Jülich GmbH - IBG-5; de.NBI & ELIXIR-DE
@@ -125,6 +135,15 @@ affiliations:
   - name: 
     index: 12
     ror: 
+  
+  - name: 
+    index: 13
+    ror: 
+  
+  - name: 
+    index: 14
+    ror: 
+
 date: 7 November 2025
 authors_short: Nils-Christian Lübke \emph{et al.}
 bibliography: paper.bib
@@ -146,17 +165,8 @@ As part of the BioHackathon Europe 2025, we report on the activities of the METR
 
 The foundation of the project was a comprehensive analysis of the current KPI landscape. Various representatives from different ELIXIR nodes were approached in advance and invited to participate in the project. They were asked to provide insight into known processes, workflows or, if already available, existing KPI sets or guidelines. The information gathered in this process is summarized below.
 
-The following ELIXIR Nodes kindly shared their experiences:
+Various project participants from different ELIXIR nodes (**Czech Republic, Germany, Ireland, Italy, Norway, Netherlands, Spain, UK, ELIXIR Hub**) have kindly shared their experiences.
 
-* Czech Republic
-* Germany
-* Ireland
-* Italy
-* Norway
-* Netherlands
-* Spain
-* UK
-* ELIXIR Hub
 
 ## de.NBI & ELIXIR Germany
 
@@ -261,7 +271,7 @@ In ELIXIR-NL, there is an ongoing effort to create a Research Software Directory
 
 Currently, ELIXIR-NL is reaching out to universities and university medical centres to ask about the software tools they use. Additionally, ELIXIR-NL does already capture KPIs on services that form part of their national health and life sciences data infrastructure.
 
-more conten
+more content...
 
 
 ## ELIXIR-IE
@@ -339,12 +349,7 @@ The process should be piloted with the Hub and Data Platform WP5 in 2026 to refi
 
 During the project, it has become apparent that the KPI landscape in ELIXIR, as well as within the institutions in the nodes themselves, is highly fragmented. For example, ELIXIR-DE, ELIXIR-Norway or ELIXIR-CZ have already defined KPI sets that are, in some cases, very comprehensive and concrete, while others only record KPIs very loosely and without clearly defined descriptions. Also when having the way of measuring KPIs we saw that there are already some technical solutions available, but with different maturity levels.
 
-As part of our landscape analysis, we also looked at common tools used for measuring KPIs. These tools include:
-
-- [Scorpion](https://scorpion.bi.denbi.de/)
-- [OSIRIS](https://osiris-app.de/)
-- Web analytics tools (e.g. Matomo and Google Analytics)
-
+As part of our landscape analysis, we also looked at common tools used for measuring KPIs and which are descibed below.
 
 ### Scorpion
 
@@ -368,9 +373,9 @@ Beside the specific tools mentioned above there are several proprietary or gener
 
 During BioHackathon Europe 2025 we initiated a coordinated framework to collect and harmonise indicators used across ELIXIR nodes and services. The aim was to compile existing KPIs, align terminology and measurement practices, and link them to service categories such as databases, web applications, workflows, and support services.
 
-## Mid-term poster and discussion with Hackathon participants
+## Mid-term postersession and discussion
 
-On Day 3, we presented our mid-term project poster. We covered why our project is important, our achievements so far, and our future focus. 
+On Day 3, we presented our mid-term project poster and discussed with other participants. We covered why our project is important, our achievements so far, and our future focus. 
 
 By Day 3 we had:
 - Interviewed representatives from 10 ELIXIR nodes and the Hub;
@@ -394,29 +399,24 @@ Survey data were collected during the Biohackathon week, and the survey remains 
 
 A total of 30 responses were received with participants representing 7 ELIXIR Nodes. [The survey remains open for additional contributions](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog).
 
-1. Involvement in KPI-related activities
-
+**1 - Involvement in KPI-related activities**
 ![1activities](https://hackmd.io/_uploads/BkujjNqyWl.png)
 
 *Two thirds* of respondents are involved in activities that are evaluated using KPIs, meaning *one third* of respondents are not.
 
-2. Knowledge and understanding of KPIs
-
+**2 - Knowledge and understanding of KPIs**
 ![2Knowledge](https://hackmd.io/_uploads/H1UPhNqJ-x.png)
 
 *47%* said they think they are **not** well-informed about KPIs, including what they are, and how to collect and evaluate them, while *53%* felt that they were well informed.
 
-
-3. Awareness of KPI tracking tools
-
+**3 - Awareness of KPI tracking tools**
 ![3Awareness](https://hackmd.io/_uploads/Syncp4c1-g.png)
 
 Despite over *50%* responding they are well-informed about KPIs, only *47%* said they knew of tools to track KPIs. 
 
 When asked to list the tools they knew, participants listed: Scorpion, Matomo, Google Analytics, Excel, Google Scholar, OpenAlex, specific website KPI features (e.g. on bio.tools), the de.NBI and NFDI guidance for KPIs, and some self-developed tools.
 
-4. Tracking of ELIXIR activities using KPIs
-
+**4 - Tracking of ELIXIR activities using KPIs**
 ![4ELIXIRactivities](https://hackmd.io/_uploads/HyVU0VqyZl.png)
 
 *50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *3 respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
@@ -432,7 +432,7 @@ There were also some examples of the specific KPIs collected:
 - **Impact** - service impact (including N of citations), service use in training events & materials, involvement in consulting, environmental footprint
 
 5. Node affiliation
-Responses were received from participants affiliated with *7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy*. 
+Responses were received from participants affiliated with 7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy. 
 
 
 # Using Ontologies for KPIs for research infrastructures
