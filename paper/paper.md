@@ -518,5 +518,5 @@ This work was supported by the German Research Foundation (DFG) within the proje
 NFDIcore: https://doi.org/10.48550/arXiv.2410.01821
 KPIOWL: https://doi.org/10.1016/j.ijinfomgt.2019.10.003
 EDAM: https://doi.org/10.7490/f1000research.1118900.1
-de.NBI KPI Cheat Sheet: https://doi.org/10.5281/zenodo.6597826
+deNBIKPIs: https://doi.org/10.5281/zenodo.6597826
 Hancock2017: https://doi.org/10.12688/f1000research.10473.2
