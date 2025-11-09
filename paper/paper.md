@@ -11,79 +11,120 @@ authors:
     orcid: 0009-0009-4801-9978
     affiliation: 1
     role: Conceptualization, Writing – review & editing
+    
   - name: Helena Schnitzer
     orcid: 0000-0002-6382-9452
     affiliation: 1
     role: Conceptualization, Writing – review & editing
+    
   - name: Julia Koblitz
     orcid: 0000-0002-7260-2129
     affiliation: 2
     role: Software, Writing – original draft
-  - name: Sebastian Beier
-    orcid: 0000-0002-2177-8781
-    affiliation: 3
-    role: Software
+    
   - name: Saskia Lawson-Tovey
     orcid: 0000-0002-8611-162X
-    affiliation: 4
+    affiliation: 3
     role: Writing - original draft
+    
   - name: Kristyna Kvizdova
     orcid: 0009-0000-9827-1359
-    affiliation: 6
+    affiliation: 4
     role: Writing - original draft
+    
+  - name: Karel
+    orcid: 0009-0000-0000-000
+    affiliation: 5
+    role: Writing - original draft
+    
   - name: Séverine Duvaud
     orcid: 0000-0000-0000-0000
-    affiliation: 3
+    affiliation: 6
     role: Conceptualization
+    
+  - name: Sebastian Beier
+    orcid: 0000-0002-2177-8781
+    affiliation: 7
+    role: Software
+    
   - name: Manuel Feser
     orcid: 0000-0000-0000-0000
-    affiliation: 10
-    role: 
+    affiliation: 8
+    role: Software
+    
   - name: Nicola Soranzo
     orcid: 0000-0003-3627-5340
-    affiliation: 7
+    affiliation: 9
     role: Writing - review & editing
+    
   - name: Gavin Farrell
     orcid: 0000-0001-5166-8551
-    affiliation: 8
+    affiliation: 10
     role: Writing - review & editing
+    
   - name: 
     orcid: 
-    affiliation: 9
+    affiliation: 11
     role: 
+    
   - name: 
     orcid: 
-    affiliation: 8
-    role: 
+    affiliation: 12
+    role:
+    
   - name: Daniel Arend
     orcid: 0000-0002-2455-5938
-    affiliation: 10
+    affiliation: 8
     role: Conceptualization, Writing – review & editing
+
 affiliations:
   - name: Forschungszentrum Jülich GmbH - IBG-5; de.NBI & ELIXIR-DE
     index: 1
     ror: 02nv7yv05
+    
   - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, Braunschweig, Germany
     index: 2
     ror: 02tyer376
-  - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
-    index: 3
-    ror: 02nv7yv05
+    
   - name: Centre for Musculoskeletal Research, The University of Manchester
+    index: 3
+    ror:
+    
+  - name: Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK
+    index: 4
+    ror: 018cxtf62
+    
+  - name: 
     index: 5
     ror:
-  - name: Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK
+    
+  - name: 
+    index: 6
+    ror:
+    
+  - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
     index: 7
-    ror: 018cxtf62
-  - name: University of Padova, Via Ugo Bassi 58/B - 35131 Padova, Italy
+    ror: 02nv7yv05
+    
+  - name: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, Germany
     index: 8
-    ror: 
+    ror: 02skbsp27
+    
   - name: 
     index: 9
-    ror:
-  - name: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, Germany
+    ror: 
+    
+  - name: University of Padova, Via Ugo Bassi 58/B - 35131 Padova, Italy
     index: 10
-    ror: 02skbsp27
+    ror:
+    
+  - name: 
+    index: 11
+    ror:
+    
+  - name: 
+    index: 12
+    ror: 
 date: 7 November 2025
 authors_short: Nils-Christian Lübke \emph{et al.}
 bibliography: paper.bib
@@ -349,11 +390,9 @@ After collecting all information during the first 2 days of the project, we set-
 
 Survey data were collected during the Biohackathon week, and the survey remains open for further responses with analysis ongoing. The survey aimed to gather information about participants' interest in and knowledge of KPIs. Responses were analysed to identify levels of awareness, familiarity, and perceived relevance of KPIs within the ELIXIR community.
 
-
 # Results of the survey
 
 A total of 30 responses were received with participants representing 7 ELIXIR Nodes. [The survey remains open for additional contributions](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog).
-
 
 1. Involvement in KPI-related activities
 
@@ -396,14 +435,11 @@ There were also some examples of the specific KPIs collected:
 Responses were received from participants affiliated with *7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy*. 
 
 
-
 # Using Ontologies for KPIs for research infrastructures
-
 
 Ontologies offer a powerful means to formally describe and connect Key Performance Indicators (KPIs) across diverse research infrastructures. By providing a shared vocabulary and explicit semantics, they enable interoperability between heterogeneous systems, comparability of service metrics, and integration of monitoring data with other knowledge sources. Although several ontologies for KPIs exist in domains such as business intelligence or smart systems [@citesAsRelated:KPIOWL], none currently capture the specific context of scientific service infrastructures—where services range from data repositories and web tools to computational workflows, each with distinct evaluation criteria. 
 
 The recently developed NFDI-core ontology [@citesAsRelated:NFDIcore] provides a valuable foundation for this effort, as it models key concepts of research infrastructures and can inform the design of a KPI ontology. However, its focus lies on describing the structural and organisational aspects of infrastructures rather than on defining measurable indicators or performance relationships. Therefore, while NFDI-core serves as an important conceptual reference, a dedicated KPI ontology is needed to capture the quantitative, temporal, and evaluative dimensions of service monitoring in a more granular and operational way. 
-
 
 ## Data collection and preparation
 
@@ -433,7 +469,6 @@ Wherever possible, existing ontologies were reused:
 - SKOS for controlled vocabularies such as requirement levels (mandatory, recommended).
 - FOAF for modeling agents (service providers, users).
 
-
 ![A first schema of the proposed research infrastructure metrics ontology (RIMO)](https://hackmd.io/_uploads/rJ4H_XckZx.png)
 
 A key design decision was to represent individual KPIs and tool categories as instances rather than defining each as a subclass. This choice reflects the practical goal of managing real-world KPI data rather than creating a purely conceptual taxonomy.
@@ -443,7 +478,6 @@ Representing KPIs as instances allows:
 - Integration of heterogeneous data from multiple institutions without redefining the ontology structure. 
 - Easier updates and additions of new KPIs without modifying the core schema. 
 - Simple querying and filtering in SPARQL (e.g., "show all KPIs measured automatically" or "all KPIs mandatory for databases").
-
 
 ## Implementation workflow
 
@@ -461,7 +495,6 @@ Requirement levels are mapped to a small SKOS concept scheme.
 1. **Graph generation and export**
 Triples are added to an RDF graph using RDFLib, merged with RIMO.ttl, and serialized to KPIs.ttl. The output can be queried via SPARQL, visualized in Protégé, or loaded into any RDF triple store.
 
-
 The RIMO ontology and KPI instances are publicly available under a CC-BY 4.0 license. All scripts are published under the MIT license. Scripts and data are hosted on GitHub at [JKoblitz/BH25-metrics](https://github.com/JKoblitz/BH25-metrics).
 
 
@@ -478,8 +511,6 @@ The *Training Metrics Database (TMD)*, developed by the ELIXIR Training Platform
 
 ## Collaboration with other ELIXIR initiatives
 
-
-
 Going forward, it is planned to continue progressing this work in several ways.
 
 1. Further interviews with node technical coordinators to gather node-level KPI information and experiences. We plan to schedule these during ELIXIR events to ease workload for all.
@@ -491,26 +522,17 @@ Going forward, it is planned to continue progressing this work in several ways.
 8. Plan out a more detailed timeline for this work to realistically fit around existing commitments.
 
 
-
-
 > TODO: Remove before publish
 **How can you help?**
 1. [Fill in our survey](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog)!
 2. Contact the project team to get involved or share your experiences with service KPIs in ELIXIR. *Add email addresses?*
 
 
-
-
-
 ## Acknowledgements
-
-@all please add your funding or whatever acknowldegments
 
 This work was performed during the ELIXIR BioHackathon Europe 2025 organized by ELIXIR in November 2025. 
 
-SLT is supported by the National Institute
-for Health and Care Research (NIHR) Manchester
-Biomedical Research Centre (BRC) (NIHR203308) and received a ELIXIR-UK flexible bursary to attend BioHackathon Europe 2025.
+SLT is supported by the National Institute for Health and Care Research (NIHR) Manchester Biomedical Research Centre (BRC) (NIHR203308) and received a ELIXIR-UK flexible bursary to attend BioHackathon Europe 2025.
 
 SB was funded by ELIXIR, the research infrastructure for life-science data and by the Federal Government of Germany and the county of North Rhine-Westphalia (de.NBI - the German Network for Bioinformatics Infrastructure)
 
