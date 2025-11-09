@@ -400,25 +400,25 @@ Survey data were collected during the Biohackathon week, and the survey remains 
 A total of 30 responses were received with participants representing 7 ELIXIR Nodes. [The survey remains open for additional contributions](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog).
 
 **1 - Involvement in KPI-related activities**
-![1activities](https://hackmd.io/_uploads/BkujjNqyWl.png)
 
+![1activities](https://hackmd.io/_uploads/BkujjNqyWl.png)
 *Two thirds* of respondents are involved in activities that are evaluated using KPIs, meaning *one third* of respondents are not.
 
 **2 - Knowledge and understanding of KPIs**
-![2Knowledge](https://hackmd.io/_uploads/H1UPhNqJ-x.png)
 
+![2Knowledge](https://hackmd.io/_uploads/H1UPhNqJ-x.png)
 *47%* said they think they are **not** well-informed about KPIs, including what they are, and how to collect and evaluate them, while *53%* felt that they were well informed.
 
 **3 - Awareness of KPI tracking tools**
-![3Awareness](https://hackmd.io/_uploads/Syncp4c1-g.png)
 
+![3Awareness](https://hackmd.io/_uploads/Syncp4c1-g.png)
 Despite over *50%* responding they are well-informed about KPIs, only *47%* said they knew of tools to track KPIs. 
 
 When asked to list the tools they knew, participants listed: Scorpion, Matomo, Google Analytics, Excel, Google Scholar, OpenAlex, specific website KPI features (e.g. on bio.tools), the de.NBI and NFDI guidance for KPIs, and some self-developed tools.
 
 **4 - Tracking of ELIXIR activities using KPIs**
-![4ELIXIRactivities](https://hackmd.io/_uploads/HyVU0VqyZl.png)
 
+![4ELIXIRactivities](https://hackmd.io/_uploads/HyVU0VqyZl.png)
 *50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *3 respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
 
 The *40%* who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories: 
