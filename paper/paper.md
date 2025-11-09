@@ -61,27 +61,33 @@ authors:
     role: Conceptualization, Writing – review & editing
 affiliations:
   - name: Forschungszentrum Jülich GmbH - IBG-5; de.NBI & ELIXIR-DE
-    index: 02nv7yv05
+    index: 1
+    ror: 02nv7yv05
   - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, Braunschweig, Germany
     index: 2
     ror: 02tyer376
   - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
     index: 3
+    ror: 02nv7yv05
   - name: Centre for Musculoskeletal Research, The University of Manchester
     index: 5
+    ror:
   - name: Earlham Institute, Norwich Research Park, Norwich, NR4 7UZ, UK
     index: 7
     ror: 018cxtf62
   - name: University of Padova, Via Ugo Bassi 58/B - 35131 Padova, Italy
     index: 8
+    ror: 
   - name: 
     index: 9
-  - name: 
+    ror:
+  - name: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben, Germany
     index: 10
+    ror: 02skbsp27
 date: 7 November 2025
 authors_short: Nils-Christian Lübke \emph{et al.}
 bibliography: paper.bib
-group: BioHackrXiv
+group: Project 15
 event: BioHackathon Europe 2025
 biohackathon_name: "BioHackathon Europe 2025"
 biohackathon_url:   "https://biohackathon-europe.org/"
