@@ -386,13 +386,13 @@ Selection Criteria (as per application form):
 * Administrative details
 * Service type (Compute, Data resources, Interoperability, Software tools, Training)
 * Description and scientific scope
-* Maturity (≥2 years in production) and update frequency (≥ every 2 years)
+* Maturity (greater than or equal 2 years in production) and update frequency (greater than or equal every 2 years)
 * Publication in at least one peer-reviewed journal
 * Minimum of three citations in international peer-reviewed journals
 * Uniqueness and comparison with competitors
 * Evidence of community outreach and adoption
 * Usage metrics (web analytics, downloads, active users)
-* International reach (used in ≥3 countries outside Switzerland)
+* International reach (used in greater than or equal 3 countries outside Switzerland)
 * Open Science compliance (license or terms of use enabling reuse/remixing)
 * Funding history and future commitments
 * Maintenance schedule
