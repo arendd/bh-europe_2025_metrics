@@ -96,7 +96,17 @@ authors:
     orcid: 0000-0001-9114-2896
     affiliation: 14
     role: Writing - review & editing
-  
+    
+  - name: Laura Chabot 
+    orcid: 
+    affiliation: 15
+    role: Writing - review & editing
+    
+  - name: Grégory Gimenez
+    orcid: 
+    affiliation: 16
+    role: Writing - review & editing
+    
   - name: Daniel Arend
     orcid: 0000-0002-2455-5938
     affiliation: 8
@@ -111,7 +121,7 @@ affiliations:
     index: 2
     ror: 02tyer376
     
-  - name: Centre for Musculoskeletal Research, The University of Manchester
+  - name: Centre for Musculoskeletal Research, The University of Manchester, UK
     index: 3
     ror: 
     
@@ -119,15 +129,15 @@ affiliations:
     index: 4
     ror: 018cxtf62
     
-  - name: Palacký University Olomouc
+  - name: Palacký University Olomouc, Czech Republic
     index: 5
     ror: 04qxnmv42
     
-  - name: Biodata Resources, Swiss Institute of Bioinformatics (SIB)
+  - name: Biodata Resources, Swiss Institute of Bioinformatics (SIB), Switzerland
     index: 6
     ror: 002n09z45
 
-  - name: Institut of Computer Science, Masaryk University
+  - name: Institut of Computer Science, Masaryk University, Czech Republic
     index: 7
     ror: 
       
@@ -135,7 +145,7 @@ affiliations:
     index: 8
     ror: 02skbsp27
     
-  - name: Barcelona Supercomputic Center (BSC)
+  - name: Barcelona Supercomputing Center (BSC), Spain
     index: 9
     ror: 05sd8tv96
     
@@ -143,7 +153,7 @@ affiliations:
     index: 10
     ror:
     
-  - name: Artic University of Norway (UiT) - Department of Chemstry, Trömsö
+  - name: Artic University of Norway (UiT) - Department of Chemstry, Trömsö, Norwway
     index: 11
     ror: 00wge5k78
     
@@ -155,10 +165,18 @@ affiliations:
     index: 13
     ror: 02nv7yv05
   
-  - name: Health Research Infrastructure, Utrecht
+  - name: Health Research Infrastructure, Utrecht, Netherlands
     index: 14
     ror: 02xcmp898
 
+  - name: CNRS - The French National Centre for Scientific Research, IFB-core siège | Villejuif
+    index: 15
+    ror: 
+    
+  - name: CNRS - The French National Centre for Scientific Research, Antenne IFB-core | Marseille
+    index: 16
+    ror: 
+    
 date: 7 November 2025
 authors_short: Nils-Christian Lübke \emph{et al.}
 bibliography: paper.bib
@@ -238,7 +256,7 @@ The administration office asks for the KPIs from the Service Providers and does 
 * All links are functional.
 
 
-## ELIXIR Norway
+## ELIXIR-NO
 
 ELIXIR Norway collects and monitors KPIs to evaluate the usage, impact, and performance of its national services. For the first implementation phase, a core set of primary KPIs has been selected to establish a consistent monitoring baseline across Norwegian services. These include:
 
@@ -276,7 +294,7 @@ Key issues surrounding KPIs experienced by ELIXIR-UK:
 - **What is an ELIXIR service?** - this is not well defined and is therefore difficult to measure KPIs in a structured and systematic way (e.g. software vs service).
 - **Limited resource and capacity** - whilst KPIs are captured when services apply to be an ELIXIR-UK service, there is not currently the time or resource at a Node-level to regularly monitor ELIXIR-UK service KPIs. A re-review of an existing service by the UK Node Office or by the SDG may be initiated in response to reported issues with the service.
 
-## ELIXIR Czech Republic
+## ELIXIR-CZ
 The interim KPIs evaluation for Czech infrastructures follows the methodology (Methodology for international peer-review assessment of large research infrastructures of the Czech Republic) published by the Ministry of Education, Youth and Sports. 
 
 The KPI portfolio complies with RACER criteria but services do not need to provide all KPIs. The RACER criteria are as follows:
@@ -386,7 +404,7 @@ Selection Criteria (as per application form):
 * Administrative details
 * Service type (Compute, Data resources, Interoperability, Software tools, Training)
 * Description and scientific scope
-* Maturity (greater than or equal years in production) and update frequency (greater than or equal every 2 years)
+* Maturity (greater than or equal 2 years in production) and update frequency (greater than or equal every 2 years)
 * Publication in at least one peer-reviewed journal
 * Minimum of three citations in international peer-reviewed journals
 * Uniqueness and comparison with competitors
