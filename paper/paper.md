@@ -386,7 +386,7 @@ Selection Criteria (as per application form):
 * Administrative details
 * Service type (Compute, Data resources, Interoperability, Software tools, Training)
 * Description and scientific scope
-* Maturity (\geq years in production) and update frequency (greater than or equal every 2 years)
+* Maturity (greater than or equal years in production) and update frequency (greater than or equal every 2 years)
 * Publication in at least one peer-reviewed journal
 * Minimum of three citations in international peer-reviewed journals
 * Uniqueness and comparison with competitors
