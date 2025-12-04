@@ -504,9 +504,10 @@ During BioHackathon Europe 2025 we initiated a coordinated framework to collect 
 On Day 3, we presented our mid-term project poster and discussed with other participants. We covered why our project is important, our achievements so far, and our future focus. 
 
 By Day 3 we had:
-- Interviewed representatives from 10 ELIXIR nodes and the Hub;
-- Created a strategy for progressing the project;
-- Started mapping service KPIs (to create an ontology).
+
+* Interviewed representatives from 10 ELIXIR nodes and the Hub;
+* Created a strategy for progressing the project;
+* Started mapping service KPIs (to create an ontology).
 
 Most importantly, we asked the community for help. BioHackathon participants from different communities and nodes gave us their suggestions for KPIs we should include in our project and were invited to fill in a survey to gather more information about their KPI knowledge and current practices.
 
@@ -1185,9 +1186,10 @@ During BioHackathon Europe 2025 we initiated a coordinated framework to collect 
 On Day 3, we presented our mid-term project poster and discussed with other participants. We covered why our project is important, our achievements so far, and our future focus. 
 
 By Day 3 we had:
-- Interviewed representatives from 10 ELIXIR nodes and the Hub;
-- Created a strategy for progressing the project;
-- Started mapping service KPIs (to create an ontology).
+
+* Interviewed representatives from 10 ELIXIR nodes and the Hub;
+* Created a strategy for progressing the project;
+* Started mapping service KPIs (to create an ontology).
 
 Most importantly, we asked the community for help. BioHackathon participants from different communities and nodes gave us their suggestions for KPIs we should include in our project and were invited to fill in a survey to gather more information about their KPI knowledge and current practices.
 
