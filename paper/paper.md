@@ -255,7 +255,6 @@ The administration office asks for the KPIs from the Service Providers and does 
 * The website of the service on the de.NBI website is still up-to-date.
 * All links are functional.
 
-
 ## ELIXIR-NO
 
 ELIXIR Norway collects and monitors KPIs to evaluate the usage, impact, and performance of its national services. For the first implementation phase, a core set of primary KPIs has been selected to establish a consistent monitoring baseline across Norwegian services. These include:
@@ -280,40 +279,39 @@ The meeting also addressed how parts of the KPI monitoring could be connected to
 ELIXIR-UK captures KPIs when services apply to be an ELIXIR-UK service. There are usually 1 or 2 calls for applications per year; service providers, through a [form with free-text questions](https://docs.google.com/forms/d/e/1FAIpQLSeGfxmEMitfEDXAx3GJCN7NPipxF7OYdEOIFWZ6_MCKIFsqGw/viewform ), describe various service KPIs and vital information for ELIXIR-UK to assess whether the service should be accepted as an ELIXIR-UK service. These applications are then reviewed by ELIXIR-UK's Scientific Development Group (SDG, a committee including domain experts from UK and other ELIXIR Nodes) before acceptance and onboarding as an ELIXIR-UK service [@citesAsRelated:Hancock2017].
 
 Key KPIs captured:
-
-- **Service KPIs** (e.g. usage numbers, uptime) - applicants define their own metrics to showcase their service's relevance within its field.
-- **Evidence of community adoption** - this includes KPIs such as number of citations and users, if the service has been mentioned/adopted in projects, and the number of installations or submissions. These KPIs should be comparable to similar existing ELIXIR services.
-- **Connections and collaborations** which includes:
-    - *ELIXIR services* - is the service registered on or does it use existing ELIXIR services (e.g. bio.tools, FAIRsharing, TeSS)?
-    - *Is the service connected to other ELIXIR platforms or projects?*
-    - *How does the service align with the current ELIXIR Scientific Programme?*
-    - *Does the service collaborate with any ELIXIR Communities and/or 'external' partners in the EU and beyond?*
-- **Service sustainability** - to ensure the service will be maintained and sustainable in the long-term, applicants provide indicators on the current service funding, including length of time, and any submitted or planned funding applications.
+ 
+* **Service KPIs** (e.g. usage numbers, uptime) - applicants define their own metrics to showcase their service's relevance within its field.
+* **Evidence of community adoption** - this includes KPIs such as number of citations and users, if the service has been mentioned/adopted in projects, and the number of installations or submissions. These KPIs should be comparable to similar existing ELIXIR services.
+* **Connections and collaborations** which includes:
+    * ELIXIR services - is the service registered on or does it use existing ELIXIR services (e.g. bio.tools, FAIRsharing, TeSS)?
+    * Is the service connected to other ELIXIR platforms or projects?
+    * How does the service align with the current ELIXIR Scientific Programme?
+    * Does the service collaborate with any ELIXIR Communities and/or 'external' partners in the EU and beyond?
+* **Service sustainability** - to ensure the service will be maintained and sustainable in the long-term, applicants provide indicators on the current service funding, including length of time, and any submitted or planned funding applications.
 
 Key issues surrounding KPIs experienced by ELIXIR-UK:
-- **Wide diversity of ELIXIR Services** - services can range from biological databases to web services, command-line tools, or training centres, making it difficult to measure KPIs in a structured and systematic way.
-- **Limited resource and capacity** - whilst KPIs are captured when services apply to be an ELIXIR-UK service, there is not currently the time or human resources at a Node-level to regularly monitor ELIXIR-UK service KPIs. A re-review of an existing service by the UK Node Office or by the SDG may be initiated in response to reported issues with the service.
+* **Wide diversity of ELIXIR Services** - services can range from biological databases to web services, command-line tools, or training centres, making it difficult to measure KPIs in a structured and systematic way.
+* **Limited resource and capacity** - whilst KPIs are captured when services apply to be an ELIXIR-UK service, there is not currently the time or human resources at a Node-level to regularly monitor ELIXIR-UK service KPIs. A re-review of an existing service by the UK Node Office or by the SDG may be initiated in response to reported issues with the service.
 
 ## ELIXIR-CZ
 The interim KPIs evaluation for Czech infrastructures follows the methodology (Methodology for international peer-review assessment of large research infrastructures of the Czech Republic) published by the Ministry of Education, Youth and Sports. 
 
 The KPI portfolio complies with RACER criteria but services do not need to provide all KPIs. The RACER criteria are as follows:
-- **Relevant** (i.e. closely linked to the objectives of large research infrastructure over a particular period of time)
-- **Accepted** (i.e. adopted by the large research infrastructure and Ministry of Education, Youth and Sports, otherwise there would be a limited implementation)
-- **Credible** (i.e. unambiguous and easy to interpret to non-experts)
-- **Easy to monitor** (i.e. gathering of the data collections should be possible at low cost)
-- **Robust** (against manipulation, etc.)
+* **Relevant** (i.e. closely linked to the objectives of large research infrastructure over a particular period of time)
+* **Accepted** (i.e. adopted by the large research infrastructure and Ministry of Education, Youth and Sports, otherwise there would be a limited implementation)
+* **Credible** (i.e. unambiguous and easy to interpret to non-experts)
+* **Easy to monitor** (i.e. gathering of the data collections should be possible at low cost)
+* **Robust** (against manipulation, etc.)
 
 The portfolio of KPIs fixed for the international peer-review assessment includes a set of 13 KPIs such as #user requests for access, #users served or # publications.
 
 Besides these KPIs, the following metrics are also monitored:
 
-- **Summary analysis of R&D and innovation results reached by the operator** (Excellent Science (publication); Applications (non-publication))
-- **Summary analysis of R&D and innovation results reached by the users (open access)** (Excellent Science (publication); Applications (non-publication))
-- **Summary analysis of LRI's user community in terms of share of domestic and foreign users**
+* **Summary analysis of R&D and innovation results reached by the operator** (Excellent Science (publication); Applications (non-publication))
+* **Summary analysis of R&D and innovation results reached by the users (open access)** (Excellent Science (publication); Applications (non-publication))
+* **Summary analysis of LRI's user community in terms of share of domestic and foreign users**
 
 Expenses, FTEs, services and users, number of events and training metrics are also being monitored.
-
 
 ## ELIXIR-NL/Health-RI 
 In ELIXIR-NL/Health-RI, there is an effort to create a Research Software Directory to measure the maturity of Dutch research software projects and services, among others as part of the FAIR Metroline (https://fairmetroline.org). This directory will allow ELIXIR-NL/Health-RI to assess whether software is [FAIR](https://www.nature.com/articles/s41597-022-01710-x) and open, and GitHub KPIs can be used to support this. There is also some overlap between the directory and [OpenEBench](https://openebench.bsc.es).
@@ -334,25 +332,23 @@ Within ELIXIR-NL/Health-RI the following groups of indicators are discussed, mon
 * Services provided
 * Governance milestones like sustainability and strategy for the next years
 
-
 ## ELIXIR-IE
 ELIXIR-IE reuses the standard ELIXIR service selection critieria. Currently there are only 5x and of these  a template for service selection in place. This template does not currently capture KPIs, but there are ongoing discussions around how to implement something for this. A key selling point to ELIXIR-IE service providers to do this would be another way to show impact for grants and when engaging funders. 
 
 Key barriers surrounding KPI introduction by ELIXIR-IE:
-- Insufficient centralised staffing and effort to do this correctly, the Node does not have many staff and keeping up with core roles and tasks take priority.
-- User fatigue to engage directly over qualitative metrics (e.g. impact stories/surveys/+).
-- Service provider fatigue to collect metrics.
-- Low number of services (5), lowering this as a priority action. 
-- No funders mandates to collect metrics and share metrics (but equally service funding support in Ireland is not easy to secure with few pathways for ESFRI RI funded supports at this time).
-
+* Insufficient centralised staffing and effort to do this correctly, the Node does not have many staff and keeping up with core roles and tasks take priority.
+* User fatigue to engage directly over qualitative metrics (e.g. impact stories/surveys/+).
+* Service provider fatigue to collect metrics.
+* Low number of services (5), lowering this as a priority action. 
+* No funders mandates to collect metrics and share metrics (but equally service funding support in Ireland is not easy to secure with few pathways for ESFRI RI funded supports at this time).
 
 ## ELIXIR-ES
 ELIXIR-ES initially collects service KPIs when services apply to be an ELIXIR-ES service. Some key KPIs are also collected roughly every three years to support the Scientific Advisory Board in reviewing ELIXIR-ES services.
 
 Key KPIs collected:
-- **Service KPIs** - these are open to the service provider to provide but can include indicators such as unique users per year, number of downloads, data traffic, etc.
-- **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services?
-- **Sustainability** - how is the service funded and for how long?
+* **Service KPIs** - these are open to the service provider to provide but can include indicators such as unique users per year, number of downloads, data traffic, etc.
+* **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services?
+* **Sustainability** - how is the service funded and for how long?
 
 An important factor when ELIXIR-ES is collecting KPIs is the workload this places on service providers. They try not to ask too much of the service providers, and do not always ask about KPIs, hence the decision to ask for KPIs roughly every 3 years.
 
@@ -378,7 +374,7 @@ These services are directly eligible for inclusion in the ELIXIR-CH Service Deli
         * Google Analytics 4: Total users, session starts, views
         * Plausible Unique visitors, total visits, page views  
     * Log Analytics and Scientific Metrics:
-        * Number of Hits or Requests*: Total files downloaded per page view (e.g., loading a homepage may require >150 files).
+        * Number of Hits or Requests: Total files downloaded per page view (e.g., loading a homepage may require >150 files).
         * Number of Jobs: For platforms or databases with online tools, report user-run jobs.
         * Entries and Downloads: Relevant for databases.
     * Software Metrics: Downloads, forks, or other indicators for code, packages, containers, workflows.
@@ -419,10 +415,10 @@ Selection Criteria (as per application form):
 
 ## ELIXIR-IT
 ELIXIR-IT's institute - the University of Padova - is the service provider for [APICURON](https://apicuron.org/) which is already used as a collector and dashboard of curation activities within and beyond the ELIXIR network. APICURON collects the following KPIs:
-- Number of unique contributors
-- Number of contribution events
-- Date the resource started using APICURON (to help justify any gaps in historical data)
-- Last activity by the resource (to show consistency in reporting and activity of the resource)
+* Number of unique contributors
+* Number of contribution events
+* Date the resource started using APICURON (to help justify any gaps in historical data)
+* Last activity by the resource (to show consistency in reporting and activity of the resource)
 
 In the longer-term, they would like to incorporate more service KPIs into Apicuron.
 
@@ -438,33 +434,30 @@ Once a year, Nodes need to fill a document reviewed by the [collaboration agreem
 Further attempts of the Hub are to establish Service portfolio management. Hence, the Hub is in favor of a streamlined approach to KPIs to be provided to all Nodes and all Service providers within the Nodes. 
 
 The ELIXIR Hub has several resources which could capture various service-related KPIs. These are:
-- The **Service Delivery Plan** (SDP) which is reviewed by the ELIXIR SAB before publishing.
-    - The [Service Selection process](https://elixir-europe.org/platforms/interoperability/guides/node-service-selection-process) provides some guidance on indicators Nodes may consider when selecting services.
-- **ELIXIR-specific resources** (all peer reviewed)
-    - [ELIXIR Deposition Databases](https://elixir-europe.org/services/tag/elixir-deposition-databases)
-    - [Core Data Resources](https://elixir-europe.org/platforms/data/core-data-resources)
-    - [Recommended Interoperability Resources](https://elixir-europe.org/platforms/interoperability/rirs)
-
-
+* The **Service Delivery Plan** (SDP) which is reviewed by the ELIXIR SAB before publishing.
+    * The [Service Selection process](https://elixir-europe.org/platforms/interoperability/guides/node-service-selection-process) provides some guidance on indicators Nodes may consider when selecting services.
+* **ELIXIR-specific resources** (all peer reviewed)
+    * [ELIXIR Deposition Databases](https://elixir-europe.org/services/tag/elixir-deposition-databases)
+    * [Core Data Resources](https://elixir-europe.org/platforms/data/core-data-resources)
+    * [Recommended Interoperability Resources](https://elixir-europe.org/platforms/interoperability/rirs)
 
 ## ELIXIR Community Database Concept
 
 There is ongoing work within ELIXIR to create an ELIXIR Community Database (ECD) process to support the visibility and co-development of ELIXIR data resources which aren't categorised as Core Data Resources (CDR) or ELIXIR Deposition Databases (EDD). This ECD process will aim to help non-CDR/EDD resources to mature and potentially strengthen a resource's eligibility for CDR/EDD accreditation. The primary focus will be Community co-development e.g. to break data silos with input on metadata practices and database federation. Other things that may help from the process are visibility within the Communities and possibly national funding where these accreditations are valued by funders. Smaller countries like Ireland with no CDR/EDD would be an example country where this could help with funding and funder engagement. 
 
 Part of this planned process includes collecting key data resource KPIs to grant a data resource provisional ECD status. A simple self-assessment checklist collects:
-- **Data resource information** - uniqueness, relevance to ELIXIR communities, links to and use of existing ELIXIR initiatives, and related publications.
-- **Time** data resource has been live.
-- **Resource involvement in ELIXIR** workplans/projects/hackathons/workshops etc.
-- **Existing service KPIs** in use by the resource, including uptime, monthly users, response time.
-- **Sustainability** - including funding to cover staff and hardware, the number of staff that would halt development/support if they left the project, plans for long-term storage/backup.
-- **FAIR indicators** to signify how FAIR the data resource is.
+* **Data resource information** - uniqueness, relevance to ELIXIR communities, links to and use of existing ELIXIR initiatives, and related publications.
+* **Time** data resource has been live.
+* **Resource involvement in ELIXIR** workplans/projects/hackathons/workshops etc.
+* **Existing service KPIs** in use by the resource, including uptime, monthly users, response time.
+* **Sustainability** - including funding to cover staff and hardware, the number of staff that would halt development/support if they left the project, plans for long-term storage/backup.
+* **FAIR indicators** to signify how FAIR the data resource is.
 
 It is designed to be very lightweight with a resource provider being able to complete the full application in under an hour. It uses simple Google Doc form and no quantitative metrics (e.g. downloads/users/+) are in focus.
 
 After 1 year, KPIs monitoring resource uptime will be used to complete a 1-year health check on the resource. These uptime KPIs will be used to assess whether to grant a database full ECD status or not. Future health checks using KPIs will be conducted at the 3-year mark.
 
 The process should be piloted with the Hub and [Data Platform WP5](https://elixir-europe.org/platforms/data) in 2026 to refine and fully launch from 2027 with learnings incorporated.
-
 
 ## Reviewing tools for KPI measurement in ELIXIR
 
@@ -480,7 +473,6 @@ For collecting indicators in a dashboard-like manner, the [Scorpion tool](https:
 
 Originally developed to manage researchers and their research outputs within academic institutions, some Current Research Information Systems (CRIS) can also be adapted to monitor and analyse various metrics related to research infrastructures. One such system is OSIRIS (https://osiris-app.de/). As an open-source CRIS, OSIRIS manages a wide range of research activities including research infrastructures, their personnel, related research outputs (e.g. publications and trainings) and statistics, such as the number of visits. Due to its flexible and extensible data model, OSIRIS can be customised to track different metrics relevant to research infrastructures and summarises them in dashboards, tables and exports.
 
-
 ### Webanalytics 
 
 Web analytics tools such as the open-source Matomo or Google Analytics can, to a certain extent, also be used to analyse the usage of research infrastructures. These tools can track user interactions, page views, session durations and other relevant metrics that provide insights into how researchers use the infrastructure's web resources. By integrating these analytics tools with the research infrastructure's web platform, administrators can gather data on user behaviour, popular resources and overall engagement. This information can be valuable for optimising the infrastructure's offerings and improving user experience. However, it is important to ensure that the use of such analytics tools complies with data privacy regulations and respects user consent. Additionally, these tools may not capture all the specific metrics relevant to research infrastructures, so they may need to be supplemented with other data collection methods or custom analytics solutions.
@@ -488,7 +480,6 @@ Web analytics tools such as the open-source Matomo or Google Analytics can, to a
 ### Other tools for monitoring
 
 Besides the specific tools mentioned above there are several proprietary or general solutions used such as spreadsheets, databases or other custom tools.
-
 
 # KPI Collection Framework
 
@@ -550,14 +541,14 @@ When asked to list the tools they knew, participants listed: Scorpion, Matomo, G
 *50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *One respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
 
 The *40%* who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories: 
-- **Selected ELIXIR services** - either at a node, tool, or life science community level
-- **National services and node KPIs** - including node performance, services part of national infrastructure
-- **KPIs linked to existing ELIXIR initiatives** - such as the ELIXIR Impact toolkit, the Core Data Resources, and the Recommended Interoperability Resources. 
+* **Selected ELIXIR services** - either at a node, tool, or life science community level
+* **National services and node KPIs** - including node performance, services part of national infrastructure
+* **KPIs linked to existing ELIXIR initiatives** - such as the ELIXIR Impact toolkit, the Core Data Resources, and the Recommended Interoperability Resources. 
 
 There were also some examples of the specific KPIs collected:
-- **Service KPIs** - Number of users/downloads/integrations/page visits, service uptake/usage, issues, user activity
-- **Funding** - cost
-- **Impact** - service impact (including N of citations), service use in training events and materials, involvement in consulting, environmental footprint
+* **Service KPIs** - Number of users/downloads/integrations/page visits, service uptake/usage, issues, user activity
+* **Funding** - cost
+* **Impact** - service impact (including N of citations), service use in training events and materials, involvement in consulting, environmental footprint
 
 5. Node affiliation
 Responses were received from participants affiliated with 7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy. 
@@ -577,7 +568,6 @@ KPIs were gathered from multiple ELIXIR Nodes and service providers using a shar
 These data formed the foundation for designing the core entities and relations of the ontology.
 
 To ensure reusability, the schema was separated into two parts:
-
 
 1. RIMO.ttl – the conceptual schema defining classes, properties, and alignments to external ontologies.
 2. KPIs.ttl – automatically generated instance data derived from the collected sheet.
