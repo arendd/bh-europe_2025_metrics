@@ -506,8 +506,7 @@ By Day 3 we had:
 
 Most importantly, we asked the community for help. BioHackathon participants from different domains and Nodes gave us their suggestions for KPIs we should include in our project and were invited to fill in a survey to gather more information about their KPI knowledge and current practices.
 
-![20251105_172248](https://hackmd.io/_uploads/BkYJhkqJ-g.jpg)
-
+![Photo of project poster for the mid-week presentation](https://hackmd.io/_uploads/BkYJhkqJ-g.jpg)
 
 ## Collection of KPIs in an online spreadsheet
 
@@ -523,21 +522,21 @@ A total of 36 responses were received with participants representing 7 ELIXIR No
 
 **1 - Involvement in KPI-related activities**
 
-![1activities_02](https://hackmd.io/_uploads/rkePUQI-Wg.png)
+![Pie chart showing KPI-related activities](https://hackmd.io/_uploads/rkePUQI-Wg.png)
 
 *Two thirds* of respondents are involved in activities that are evaluated using KPIs, meaning *one third* of respondents are not.
 
 
 **2 - Knowledge and understanding of KPIs**
 
-![2Knowledge_02](https://hackmd.io/_uploads/B175IXI-Zl.png)
+![Pie chart showing KPI-related knowledge](https://hackmd.io/_uploads/B175IXI-Zl.png)
 
 *44%* said they think they are **not** well-informed about KPIs, including what they are, and how to collect and evaluate them, while *56%* felt that they were well informed.
 
 
 **3 - Awareness of KPI tracking tools**
 
-![3Awareness_02](https://hackmd.io/_uploads/Byeyw78bWe.png)
+![Pie chart showing awareness of KPI tools](https://hackmd.io/_uploads/Byeyw78bWe.png)
 
 Despite over *50%* responding they are well-informed about KPIs, only *47%* said they knew of tools to track KPIs. 
 
@@ -545,7 +544,7 @@ When asked to list the tools they knew, participants listed: Scorpion, Matomo, G
 
 **4 - Tracking of ELIXIR activities using KPIs**
 
-![4ELIXIRactivities](https://hackmd.io/_uploads/rJifwm8ZWx.png)
+![Pie chart showing tracking of ELIXIR activities](https://hackmd.io/_uploads/rJifwm8ZWx.png)
 
 *50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *One respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
 
