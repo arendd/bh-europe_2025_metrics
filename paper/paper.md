@@ -561,7 +561,6 @@ There were also some examples of the specific KPIs collected:
 * **Funding** - cost
 * **Impact** - service impact (including N of citations), service use in training events and materials, involvement in consulting, environmental footprint
 
-5. Node affiliation
 Responses were received from participants affiliated with 7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy. 
 
 Overall, the survey highlights a mixed picture: while many participants are aware of KPIs and some actively track their activities, there is still considerable variation in tools used, understanding of KPI methodologies, and implementation across Nodes, indicating opportunities for further guidance and harmonisation.
