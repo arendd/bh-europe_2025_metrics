@@ -290,6 +290,7 @@ Key KPIs captured:
 * **Service sustainability** - to ensure the service will be maintained and sustainable in the long-term, applicants provide indicators on the current service funding, including length of time, and any submitted or planned funding applications.
 
 Key issues surrounding KPIs experienced by ELIXIR-UK:
+
 * **Wide diversity of ELIXIR Services** - services can range from biological databases to web services, command-line tools, or training centres, making it difficult to measure KPIs in a structured and systematic way.
 * **Limited resource and capacity** - whilst KPIs are captured when services apply to be an ELIXIR-UK service, there is not currently the time or human resources at a Node-level to regularly monitor ELIXIR-UK service KPIs. A re-review of an existing service by the UK Node Office or by the SDG may be initiated in response to reported issues with the service.
 
