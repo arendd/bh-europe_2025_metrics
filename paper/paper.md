@@ -322,6 +322,7 @@ In ELIXIR-NL/Health-RI, there is an effort to create a Research Software Directo
 Currently, ELIXIR-NL/Health-RI is reaching out to universities and university medical centres to ask about the software tools they use. Additionally, ELIXIR-NL/Health-RI already capture KPIs on services that form part of their national health and life sciences data infrastructure.
 
 Within ELIXIR-NL/Health-RI the following groups of indicators are discussed, monitored, and evaluated:
+
 * Personnel active within the network
 * Data sources
 * Establishment of data hubs
@@ -339,6 +340,7 @@ Within ELIXIR-NL/Health-RI the following groups of indicators are discussed, mon
 ELIXIR-IE reuses the standard ELIXIR service selection critieria. Currently there are only 5x and of these  a template for service selection in place. This template does not currently capture KPIs, but there are ongoing discussions around how to implement something for this. A key selling point to ELIXIR-IE service providers to do this would be another way to show impact for grants and when engaging funders. 
 
 Key barriers surrounding KPI introduction by ELIXIR-IE:
+
 * Insufficient centralised staffing and effort to do this correctly, the Node does not have many staff and keeping up with core roles and tasks take priority.
 * User fatigue to engage directly over qualitative metrics (e.g. impact stories/surveys/+).
 * Service provider fatigue to collect metrics.
