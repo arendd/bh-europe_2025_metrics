@@ -549,12 +549,14 @@ When asked to list the tools they knew, participants listed: Scorpion, Matomo, G
 
 *50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *One respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
 
-The *40%* who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories: 
+The *40%* who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories:
+
 * **Selected ELIXIR services** - either at a node, tool, or life science community level
 * **National services and node KPIs** - including node performance, services part of national infrastructure
 * **KPIs linked to existing ELIXIR initiatives** - such as the ELIXIR Impact toolkit, the Core Data Resources, and the Recommended Interoperability Resources. 
 
 There were also some examples of the specific KPIs collected:
+
 * **Service KPIs** - Number of users/downloads/integrations/page visits, service uptake/usage, issues, user activity
 * **Funding** - cost
 * **Impact** - service impact (including N of citations), service use in training events and materials, involvement in consulting, environmental footprint
@@ -581,7 +583,6 @@ To ensure reusability, the schema was separated into two parts:
 1. RIMO.ttl – the conceptual schema defining classes, properties, and alignments to external ontologies.
 2. KPIs.ttl – automatically generated instance data derived from the collected sheet.
 
-
 A Python script based on RDFLib was developed to read the spreadsheet (or its CSV export) and transform each row into an RDF representation, linking the data to the corresponding ontology terms.
 
 ## Ontology structure and external alignment
@@ -607,6 +608,7 @@ Wherever possible, existing ontologies were reused:
 A key design decision was to represent individual KPIs and tool categories as instances rather than defining each as a subclass. This choice reflects the practical goal of managing real-world KPI data rather than creating a purely conceptual taxonomy.
 
 Representing KPIs as instances allows:
+
 * Direct annotation of each KPI with metadata (description, examples, links, automation tools). 
 * Integration of heterogeneous data from multiple institutions without redefining the ontology structure. 
 * Easier updates and additions of new KPIs without modifying the core schema. 
@@ -622,10 +624,10 @@ The ontology header specifies title, authorship, versioning, and licensing (CC-B
 2. **Data import**
 Reading the Google Sheet via pandas (as direct CSV export).
 The script validates and normalises values (e.g., replacing NaN with empty fields, converting links to xsd:anyURI, and mapping boolean fields).
-1. **Semantic mapping**
+3. **Semantic mapping**
 Automatic matching of textual categories (e.g., Web applications, Databases, Workflows) to EDAM URIs and predefined rimo:ToolCategory instances.
 Requirement levels are mapped to a small SKOS concept scheme.
-1. **Graph generation and export**
+4. **Graph generation and export**
 Triples are added to an RDF graph using RDFLib, merged with RIMO.ttl, and serialised to KPIs.ttl. The output can be queried via SPARQL, visualised in Protégé, or loaded into any RDF triple store.
 
 The RIMO ontology and KPI instances are publicly available under a CC-BY 4.0 license. All scripts are published under the MIT license. Scripts and data are hosted on GitHub at [JKoblitz/BH25-metrics](https://github.com/JKoblitz/BH25-metrics).
