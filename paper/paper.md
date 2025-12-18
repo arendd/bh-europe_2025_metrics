@@ -350,7 +350,7 @@ Key KPIs collected:
 * **Service KPIs** - these are open to the service provider to provide but can include indicators such as unique users per year, number of downloads, data traffic, etc.
 * **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services?
 * **Sustainability** - how is the service funded and for how long?
-
+* 
 An important factor when ELIXIR-ES is collecting KPIs is the workload this places on service providers. They try not to ask too much of the service providers, and do not always ask about KPIs, hence the decision to ask for KPIs roughly every 3 years.
 
 ## ELIXIR-CH
