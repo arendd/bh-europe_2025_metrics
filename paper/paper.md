@@ -351,10 +351,11 @@ Key barriers surrounding KPI introduction by ELIXIR-IE:
 ELIXIR-ES initially collects service KPIs when services apply to be an ELIXIR-ES service. Some key KPIs are also collected roughly every three years to support the Scientific Advisory Board in reviewing ELIXIR-ES services.
 
 Key KPIs collected:
+
 * **Service KPIs** - these are open to the service provider to provide but can include indicators such as unique users per year, number of downloads, data traffic, etc.
 * **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services?
 * **Sustainability** - how is the service funded and for how long?
-* 
+
 An important factor when ELIXIR-ES is collecting KPIs is the workload this places on service providers. They try not to ask too much of the service providers, and do not always ask about KPIs, hence the decision to ask for KPIs roughly every 3 years.
 
 ## ELIXIR-CH
@@ -420,6 +421,7 @@ Selection Criteria (as per application form):
 
 ## ELIXIR-IT
 ELIXIR-IT's institute - the University of Padova - is the service provider for [APICURON](https://apicuron.org/) which is already used as a collector and dashboard of curation activities within and beyond the ELIXIR network. APICURON collects the following KPIs:
+
 * Number of unique contributors
 * Number of contribution events
 * Date the resource started using APICURON (to help justify any gaps in historical data)
@@ -439,6 +441,7 @@ Once a year, Nodes need to fill a document reviewed by the [collaboration agreem
 Further attempts of the Hub are to establish Service portfolio management. Hence, the Hub is in favor of a streamlined approach to KPIs to be provided to all Nodes and all Service providers within the Nodes. 
 
 The ELIXIR Hub has several resources which could capture various service-related KPIs. These are:
+
 * The **Service Delivery Plan** (SDP) which is reviewed by the ELIXIR SAB before publishing.
     * The [Service Selection process](https://elixir-europe.org/platforms/interoperability/guides/node-service-selection-process) provides some guidance on indicators Nodes may consider when selecting services.
 * **ELIXIR-specific resources** (all peer reviewed)
@@ -451,6 +454,7 @@ The ELIXIR Hub has several resources which could capture various service-related
 There is ongoing work within ELIXIR to create an ELIXIR Community Database (ECD) process to support the visibility and co-development of ELIXIR data resources which aren't categorised as Core Data Resources (CDR) or ELIXIR Deposition Databases (EDD). This ECD process will aim to help non-CDR/EDD resources to mature and potentially strengthen a resource's eligibility for CDR/EDD accreditation. The primary focus will be Community co-development e.g. to break data silos with input on metadata practices and database federation. Other things that may help from the process are visibility within the Communities and possibly national funding where these accreditations are valued by funders. Smaller countries like Ireland with no CDR/EDD would be an example country where this could help with funding and funder engagement. 
 
 Part of this planned process includes collecting key data resource KPIs to grant a data resource provisional ECD status. A simple self-assessment checklist collects:
+
 * **Data resource information** - uniqueness, relevance to ELIXIR communities, links to and use of existing ELIXIR initiatives, and related publications.
 * **Time** data resource has been live.
 * **Resource involvement in ELIXIR** workplans/projects/hackathons/workshops etc.
