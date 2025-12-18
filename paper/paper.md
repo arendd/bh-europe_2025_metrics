@@ -207,7 +207,7 @@ Various project participants from different ELIXIR Nodes (**Czech Republic, Germ
 
 ## ELIXIR-FR
 
-ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review. All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, trainings, …) provided they are open to external users at least at the national level (including for trainings), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
+ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review. All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, trainings,...) provided they are open to external users at least at the national level (including for trainings), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
 Selection criteria encompass:
 
 1. Proof of usability within the ELIXIR community and the relation to other resources within ELIXIR.
@@ -299,6 +299,7 @@ Key issues surrounding KPIs experienced by ELIXIR-UK:
 The interim KPIs evaluation for Czech infrastructures follows the methodology (Methodology for international peer-review assessment of large research infrastructures of the Czech Republic) published by the Ministry of Education, Youth and Sports. 
 
 The KPI portfolio complies with RACER criteria but services do not need to provide all KPIs. The RACER criteria are as follows:
+
 * **Relevant** (i.e. closely linked to the objectives of large research infrastructure over a particular period of time)
 * **Accepted** (i.e. adopted by the large research infrastructure and Ministry of Education, Youth and Sports, otherwise there would be a limited implementation)
 * **Credible** (i.e. unambiguous and easy to interpret to non-experts)
