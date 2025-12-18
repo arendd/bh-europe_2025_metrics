@@ -207,16 +207,17 @@ Various project participants from different ELIXIR Nodes (**Czech Republic, Germ
 
 ## ELIXIR-FR
 
-ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review.  
- All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, trainings, …) provided they are open to external users at least at the national level (including for trainings), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
+ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review. All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, trainings, …) provided they are open to external users at least at the national level (including for trainings), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
 Selection criteria encompass:
-1. Proof of usability within the ELIXIR community and the relation to other resources within ELIXIR. 
+
+1. Proof of usability within the ELIXIR community and the relation to other resources within ELIXIR.
 2. Data Stewardship needs to be considered.
 3. Fair principles should be applied.
 4. The service is engaged in collaboration with other communities and infrastructures within France and the EU.
 5. The service must provide plans for long-term sustainability.
 6. Alignment with the ELIXIR platforms and communities must be shown.
-Further, the application process clarifies governance, life cycle (stage of maturity), and accessibility themes regarding the service. Service quality is beyond queried by asking for standards, documentation (as well as terms of use, and ethics), available software, training, and technical preferences. Indicator tracking and proof of further monitoring are part of the application process as well with focus on usage and usability of the service.  
+
+Further, the application process clarifies governance, life cycle (stage of maturity), and accessibility themes regarding the service. Service quality is beyond queried by asking for standards, documentation (as well as terms of use, and ethics), available software, training, and technical preferences. Indicator tracking and proof of further monitoring are part of the application process as well with focus on usage and usability of the service. 
 
 ## ELIXIR-DE / de.NBI
 
