@@ -519,31 +519,30 @@ A total of 36 responses were received with participants representing 7 ELIXIR No
 
 ![Pie chart showing KPI-related activities](https://hackmd.io/_uploads/rkePUQI-Wg.png)
 
-*Two thirds* of respondents are involved in activities that are evaluated using KPIs, meaning *one third* of respondents are not.
+2/3 of respondents are involved in activities that are evaluated using KPIs, meaning 1/3 of respondents are not.
 
 
 **2 - Knowledge and understanding of KPIs**
 
 ![Pie chart showing KPI-related knowledge](https://hackmd.io/_uploads/B175IXI-Zl.png)
 
-*44%* said they think they are **not** well-informed about KPIs, including what they are, and how to collect and evaluate them, while *56%* felt that they were well informed.
+44% said they think they are **not** well-informed about KPIs, including what they are, and how to collect and evaluate them, while 56% felt that they were well informed.
 
 
 **3 - Awareness of KPI tracking tools**
 
 ![Pie chart showing awareness of KPI tools](https://hackmd.io/_uploads/Byeyw78bWe.png)
 
-Despite over *50%* responding they are well-informed about KPIs, only *47%* said they knew of tools to track KPIs. 
-
+Despite over 50% responding they are well-informed about KPIs, only 47% said they knew of tools to track KPIs. 
 When asked to list the tools they knew, participants listed: Scorpion, Matomo, Google Analytics, Excel, Google Scholar, OpenAlex, specific website KPI features (e.g. on bio.tools), the de.NBI and NFDI guidance for KPIs, and some self-developed tools.
 
 **4 - Tracking of ELIXIR activities using KPIs**
 
 ![Pie chart showing tracking of ELIXIR activities](https://hackmd.io/_uploads/rJifwm8ZWx.png)
 
-*50%* said they did not track their ELIXIR activities with KPIs, while *40%* did. *One respondents* gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
+50% said they did not track their ELIXIR activities with KPIs, while 40% did. One respondents gave 'other' responses and described partly using KPIs on their main projects, tracking deliverables, and tracking KPIs via de.NBI.
 
-The *40%* who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories:
+The 40% who said they did track their ELIXIR activities with KPIs were asked to give examples. These examples fell into several categories:
 
 * **Selected ELIXIR services** - either at a node, tool, or life science community level
 * **National services and node KPIs** - including node performance, services part of national infrastructure
@@ -553,11 +552,11 @@ There were also some examples of the specific KPIs collected:
 
 * **Service KPIs** - Number of users/downloads/integrations/page visits, service uptake/usage, issues, user activity
 * **Funding** - cost
-* **Impact** - service impact (including N of citations), service use in training events and materials, involvement in consulting, environmental footprint
+* **Impact** - service impact (including number of citations), service use in training events and materials, involvement in consulting, environmental footprint
 
-Responses were received from participants affiliated with 7 Nodes, including ELIXIR Germany, ELIXIR Netherlands, ELIXIR Switzerland, ELIXIR Czech, ELIXIR France, ELIXIR UK, and ELIXIR Italy. 
+Responses were received from participants affiliated with 7 ELIXIR Nodes, including Germany, Netherlands, Switzerland, Czech Republic, France, UK, and Italy. 
 
-Overall, the survey highlights a mixed picture: while many participants are aware of KPIs and some actively track their activities, there is still considerable variation in tools used, understanding of KPI methodologies, and implementation across Nodes, indicating opportunities for further guidance and harmonisation.
+Overall, the survey highlights a mixed picture. While many participants are aware of KPIs and some actively track their activities, there is still considerable variation in tools used, understanding of KPI methodologies, and implementation across Nodes, indicating opportunities for further guidance and harmonisation.
 
 # Using Ontologies for KPIs for research infrastructures
 
@@ -636,7 +635,7 @@ Once populated, RIMO can serve as the foundation for a unified KPI monitoring fr
 An important area for continued work will be to strengthen awareness and capacity building around KPIs. Survey results showed that about half of respondents do not feel well informed about KPIs, underlining the need for targeted guidance and training. 
 
 In addition to the general need for improved awareness, several survey respondents indicated that they already collect KPIs specifically for training activities. This highlights that training-related indicators warrant further exploration and a more systematic integration into the broader KPI work. This insight could serve as a transition to the ongoing efforts around the Training Metrics Database (TMD). 
-The *Training Metrics Database (TMD)*, developed by the [ELIXIR Training Platform](https://elixir-europe.org/platforms/training) and further advanced as a project during this year's BioHackathon, provides a framework for collecting and analysing training-related KPIs. We are planning to explore how existing approaches can be aligned and where synergies between service domains can be leveraged. Ongoing exchange through training and community activities will further support shared understanding and good practices in KPI use.
+TMD is developed by the [ELIXIR Training Platform](https://elixir-europe.org/platforms/training) and further advanced as a project during this year's BioHackathon, provides a framework for collecting and analysing training-related KPIs. We are planning to explore how existing approaches can be aligned and where synergies between service domains can be leveraged. Ongoing exchange through training and community activities will further support shared understanding and good practices in KPI use.
 
 ## Collaboration with other ELIXIR initiatives
 
@@ -650,13 +649,6 @@ Going forward, it is planned to continue progressing this work in several ways.
 7. Further forward, use the ontology to support automatic KPI gathering within ELIXIR.
 8. Plan out a more detailed timeline for this work to realistically fit around existing commitments.
 
-<!--
-> TODO: Remove before publish
-**How can you help?**
-1. [Fill in our survey](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog)!
-2. Contact the project team to get involved or share your experiences with service KPIs in ELIXIR. *Add email addresses?*
--->
-
 ## Acknowledgements
 
 This work was performed during the ELIXIR BioHackathon Europe 2025 organised by ELIXIR in November 2025. The authors would like to acknowledge the support from ELIXIR-CH (Séverine Duvaud) and ELIXIR-FR (Laura Chabot, Anne-Françoise Adam-Blondon, Grégory Gimenez)
@@ -668,9 +660,3 @@ NCL, HS, SB were funded by ELIXIR, the research infrastructure for life-science 
 DA and MF were supported by the German Research Foundation (DFG) within the project “Establishment of the National Research Data Infrastructure (NFDI)” in the consortium FAIRagro (www.fairagro.net, project number 501899475) and NFDI4Biodiversity (www.nfdi4biodiversity.org, project number 442032008).
 
 ## References
-
-NFDIcore: https://doi.org/10.48550/arXiv.2410.01821
-KPIOWL: https://doi.org/10.1016/j.ijinfomgt.2019.10.003
-EDAM: https://doi.org/10.7490/f1000research.1118900.1
-deNBIKPIs: https://doi.org/10.5281/zenodo.6597826
-Hancock2017: https://doi.org/10.12688/f1000research.10473.2
