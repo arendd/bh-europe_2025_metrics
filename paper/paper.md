@@ -190,7 +190,7 @@ git_url: "https://github.com/arendd/bh-europe_2025_metrics"
 
 # Introduction
 
-Key Performance Indicators (KPIs) are increasingly requested by a diverse range of stakeholders across the research ecosystem. Funders want to measure the impact of projects and related services they fund, or research organisations want to track the service use for informed decision making. Service providers themselves are also interested in monitoring their services to gather feedback and improve service quality. KPIs are a simple but powerful tool for these purposes.
+Key Performance Indicators (KPIs) are increasingly requested by a diverse range of stakeholders across the research ecosystem. Funders want to measure the impact of projects and related services they fund, or research organisations want to track the service use for informed decision making. Service providers themselves are also interested in monitoring their services to gather feedback and improve service quality. KPIs are a simple, but powerful tool for these purposes.
 
 As part of the BioHackathon Europe 2025, we report on the activities of the METRICS project, which addresses the need for consistent and transparent evaluation of services across ELIXIR and related initiatives using KPIs. The project brings together experts from multiple ELIXIR Nodes and scientific domains to identify, harmonise, and semantically model KPIs that reflect service quality, usage, sustainability, and impact. By exploring existing evaluation frameworks, and processes, the team aims to design a flexible yet coherent foundation for KPI monitoring of ELIXIR services. This report summarises the project’s motivation, current landscape analysis, and initial steps toward developing an ontology-driven framework for KPI representation, fostering interoperability and supporting evidence-based management of life science infrastructures.
 
@@ -198,12 +198,7 @@ As part of the BioHackathon Europe 2025, we report on the activities of the METR
 
 The foundation of the project was a broad analysis of the current KPI landscape. Various representatives from different ELIXIR Nodes were approached in advance and invited to participate in the project. They were asked to provide insight into known processes, workflows or, if already available, existing KPI sets or guidelines. The information gathered in this process is summarised below.
 
-Various project participants from different ELIXIR Nodes (**Czech Republic, Germany, Ireland, Italy, Norway, Netherlands, Spain, UK, ELIXIR Hub**) have kindly shared their experiences. The authors would also like to acknowledge the following Nodes for sharing offline information valuable for the manuscript:
-
-**ELIXIR-FR**: Laura Chabot, Grégory Gimenez and Anne-Françoise Adam-Blondon
-
-**ELIXIR-CH**: Séverine Duvaud
-
+Various project participants from different ELIXIR Nodes (**Czech Republic, Germany, Ireland, Italy, Norway, Netherlands, Spain, UK, ELIXIR Hub**) have kindly shared their experiences. The authors would also like to acknowledge Laura Chabot, Grégory Gimenez and Anne-Françoise Adam-Blondon from **ELIXIR France** and Séverine Duvaud (**ELIXIR-CH**) for sharing offline information valuable for the manuscript.
 
 ## ELIXIR-FR
 
@@ -212,7 +207,7 @@ Selection criteria encompass:
 
 1. Proof of usability within the ELIXIR community and the relation to other resources within ELIXIR.
 2. Data Stewardship needs to be considered.
-3. Fair principles should be applied.
+3. FAIR principles should be applied.
 4. The service is engaged in collaboration with other communities and infrastructures within France and the EU.
 5. The service must provide plans for long-term sustainability.
 6. Alignment with the ELIXIR platforms and communities must be shown.
@@ -231,18 +226,18 @@ Beyond, a working group for Service Providers and every interested Person from t
 KPIs are clustered by "type of service" - e.g. database or webapplication - to be tailored to the needs of every specific type of Service. 
 Further, the KPIs are also grouped into "mandatory or main" and "obligatory" KPIs. The latter should be monitored, if technical possible. The "main" KPIs need to be monitored - if technically possible - and send to the administration office once a year. 
 
-The full set of listed KPIs can be found [here](https://www.denbi.de/images/Service/20210624_KPI_Cheat_Sheet_doi.pdf) or on [Zenodo](https://zenodo.org/records/6597826). These KPIs are all quantitatively measured. Mandatory indicators are mostly centered around user interest -> visits, downloads, unique users.
+The full set of listed KPIs can be found on [Zenodo](https://zenodo.org/records/6597826). These KPIs are all quantitatively measured. Mandatory indicators are mostly centered around user interest, e.g. visits, downloads, unique users.
 That being said, "user interaction" would be a good profile to work with, but is incredibly hard to collect. There is a user feedback survey, which results can also be incorporated into a general self-assessment scheme for service providers and their service. 
 
 Main KPIs collected are - number of:
 
-* #Actions
-* #Citations
-* #Downloads
-* #Support tickets
-* #Unique Users
-* #Users 
-* #Visits 
+* Actions
+* Citations
+* Downloads
+* Support tickets
+* Unique Users
+* Users 
+* Visits 
 
 All KPIs should be measured without "robot hits" being counted.
 
@@ -258,15 +253,15 @@ The administration office asks for the KPIs from the Service Providers and does 
 
 ## ELIXIR-NO
 
-ELIXIR Norway collects and monitors KPIs to evaluate the usage, impact, and performance of its national services. For the first implementation phase, a core set of primary KPIs has been selected to establish a consistent monitoring baseline across Norwegian services. These include:
+ELIXIR Norway collects and monitors KPIs to evaluate the usage, impact, and performance of its national services. For the first implementation phase, a core set of primary KPIs has been selected to establish a consistent monitoring baseline across Norwegian services. These include - number of:
 
-* #Unique visitors (nb_uniq_visitors)
-* #Visits (nb_visits)
-* #Downloads (nb_downloads)
-* #Actions (nb_actions)
-* #Page views (nb_pageviews)
-* #Actions per visit (nb_actions_per_visit)
-* #Average duration (avg_time_on_site)
+* Unique visitors (nb_uniq_visitors)
+* Visits (nb_visits)
+* Downloads (nb_downloads)
+* Actions (nb_actions)
+* Page views (nb_pageviews)
+* Actions per visit (nb_actions_per_visit)
+* Average duration (avg_time_on_site)
 
 A set of secondary KPIs, such as returning users, new users, returning visits, new visits, and outlinks, will be introduced in subsequent iterations to provide deeper insights into user engagement and behaviour.
 
@@ -518,7 +513,7 @@ Survey data were collected during the Biohackathon Europe week, and the survey r
 
 # Results of the survey
 
-A total of 36 responses were received with participants representing 7 ELIXIR Nodes. [The survey remains open for additional contributions](https://docs.google.com/forms/d/e/1FAIpQLSdPHI9u_jrb0eeV_gudQSBbLjWO74iElOVXj38BfvcjrRv_Lw/viewform?usp=dialog).
+A total of 36 responses were received with participants representing 7 ELIXIR Nodes. 
 
 **1 - Involvement in KPI-related activities**
 
