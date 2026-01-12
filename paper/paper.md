@@ -33,7 +33,7 @@ authors:
     role: Writing - review & editing
     
   - name: Karel Berka
-    orcid: 0009-0000-0000-000
+    orcid: 0000-0001-9472-2589 
     affiliation: 5
     role: Investigation, Resources, Writing - original draft
     
@@ -72,7 +72,7 @@ authors:
     affiliation: 11
     role: Writing - review & editing
     
-  - name: David Llyod
+  - name: David Lloyd
     orcid: 0000-0003-1222-5912
     affiliation: 12
     role: Writing - review & editing
@@ -202,7 +202,7 @@ Various project participants from different ELIXIR Nodes (**Czech Republic, Germ
 
 ## ELIXIR-FR
 
-ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review. All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, trainings,...) provided they are open to external users at least at the national level (including for trainings), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
+ELIXIR France’s services offered within the ELIXIR Service portfolio underwent an application process. Service providers within ELIXIR-FR can apply their service via an application form, which subsequently is evaluated by external review. All types of bioinformatic resources accelerating research in life science are eligible (data, tools, workflows, web services, training,...) provided they are open to external users at least at the national level (including for training), that their terms of use are transparent and compliant with the current regulations, that they provide support to users and that they are engaged in a user driven process of improvement. Resources provided by private companies are not eligible.
 Selection criteria encompass:
 
 1. Proof of usability within the ELIXIR community and the relation to other resources within ELIXIR.
@@ -293,7 +293,7 @@ Key issues surrounding KPIs experienced by ELIXIR-UK:
 ## ELIXIR-CZ
 The interim KPIs evaluation for Czech infrastructures follows the methodology (Methodology for international peer-review assessment of large research infrastructures of the Czech Republic) published by the Ministry of Education, Youth and Sports. 
 
-The KPI portfolio complies with RACER criteria but services do not need to provide all KPIs. The RACER criteria are as follows:
+The KPI portfolio complies with RACER criteria [@citesAsRelated:RACER] but services do not need to provide all KPIs. The RACER criteria are as follows:
 
 * **Relevant** (i.e. closely linked to the objectives of large research infrastructure over a particular period of time)
 * **Accepted** (i.e. adopted by the large research infrastructure and Ministry of Education, Youth and Sports, otherwise there would be a limited implementation)
@@ -312,7 +312,7 @@ Besides these KPIs, the following metrics are also monitored:
 Expenses, FTEs, services and users, number of events and training metrics are also being monitored.
 
 ## ELIXIR-NL/Health-RI 
-In ELIXIR-NL/Health-RI, there is an effort to create a Research Software Directory to measure the maturity of Dutch research software projects and services, among others as part of the FAIR Metroline (https://fairmetroline.org). This directory will allow ELIXIR-NL/Health-RI to assess whether software is [FAIR](https://www.nature.com/articles/s41597-022-01710-x) and open, and GitHub KPIs can be used to support this. There is also some overlap between the directory and [OpenEBench](https://openebench.bsc.es).
+In ELIXIR-NL/Health-RI, there is an effort to create a Research Software Directory to measure the maturity of Dutch research software projects and services, among others as part of the [FAIR Metroline](https://fairmetroline.org). This directory will allow ELIXIR-NL/Health-RI to assess whether software is [FAIR](https://www.nature.com/articles/s41597-022-01710-x) and open, and GitHub KPIs can be used to support this.  [OpenEBench](https://openebench.bsc.es) is also linked where applicable. 
 
 Currently, ELIXIR-NL/Health-RI is reaching out to universities and university medical centres to ask about the software tools they use. Additionally, ELIXIR-NL/Health-RI already capture KPIs on services that form part of their national health and life sciences data infrastructure.
 
@@ -432,9 +432,8 @@ The ELIXIR Hub shared their perspective on streamlining administrative and coord
 
 Services are submitted to be ELIXIR-Services via the Service Delivery Plan (SDP). Every Node is mandated to submit an SDP to the ELIXIR Hub. A SDP is a key element of the Collaboration Agreement every Node needs to sign to be a member of ELIXIR. Further, the ELIXIR network and all its members do have a mutual interest to offer services of good quality to the research community.
 Every SDP from every given Node needs thus to be approved by the ELIXIR Scientific Advisory Board. If the review is successful, the Node’s services are going to be incorporated into the ELIXIR Service portfolio.
-Once a year, Nodes need to fill a document reviewed by the [collaboration agreement oversight group (COG)](https://elixir-europe.org/about-us/governance/collaboration-agreement/oversight-group). The so-called COG-forms do now also have a question regarding a possible change in the Service list of the given Node.
-Further attempts of the Hub are to establish Service portfolio management. Hence, the Hub is in favor of a streamlined approach to KPIs to be provided to all Nodes and all Service providers within the Nodes. 
-
+The [Collaboration Agreement](https://elixir-europe.org/about-us/governance/collaboration-agreement) is reviewed annually, including the Node Service Portfolio to identify any changes required. The Hub is looking to establish closer management of the Service Portfolio and would favour a streamlined approach to KPI's to be provided to all Nodes and all Service Providers within the Nodes. 
+ 
 The ELIXIR Hub has several resources which could capture various service-related KPIs. These are:
 
 * The **Service Delivery Plan** (SDP) which is reviewed by the ELIXIR SAB before publishing.
@@ -475,7 +474,7 @@ For collecting indicators in a dashboard-like manner, the [Scorpion tool](https:
 
 ### OSIRIS and other research information systems
 
-Originally developed to manage researchers and their research outputs within academic institutions, some Current Research Information Systems (CRIS) can also be adapted to monitor and analyse various metrics related to research infrastructures. One such system is OSIRIS (https://osiris-app.de/). As an open-source CRIS, OSIRIS manages a wide range of research activities including research infrastructures, their personnel, related research outputs (e.g. publications and trainings) and statistics, such as the number of visits. Due to its flexible and extensible data model, OSIRIS can be customised to track different metrics relevant to research infrastructures and summarises them in dashboards, tables and exports.
+Originally developed to manage researchers and their research outputs within academic institutions, some Current Research Information Systems (CRIS) can also be adapted to monitor and analyse various metrics related to research infrastructures. One such system is OSIRIS (https://osiris-app.de/). As an open-source CRIS, OSIRIS manages a wide range of research activities including research infrastructures, their personnel, related research outputs (e.g. publications and training) and statistics, such as the number of visits. Due to its flexible and extensible data model, OSIRIS can be customised to track different metrics relevant to research infrastructures and summarises them in dashboards, tables and exports.
 
 ### Webanalytics 
 
