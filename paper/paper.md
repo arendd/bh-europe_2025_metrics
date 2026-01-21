@@ -52,59 +52,59 @@ authors:
     affiliation: 8
     role: Software, Conceptualisation
         
-  - name: Ana Golobardes Vilarasau
+  - name: Anna Golobardes Vilarasau
     orcid: 0009-0003-1330-6586
-    affiliation: 9
+    affiliation: 9, 10
     role: Writing - review & editing
     
   - name: Gavin Farrell
     orcid: 0000-0001-5166-8551
-    affiliation: 10
+    affiliation: 11
     role: Writing - review & editing
     
   - name: Kamel Eddine Adel Bouhraoua
     orcid: 0000-0001-9531-6339
-    affiliation: 10
+    affiliation: 11
     role: Writing - review & editing
     
   - name: Espen Aberg
     orcid: 0000-0002-2280-7978
-    affiliation: 11
+    affiliation: 12
     role: Writing - review & editing
     
   - name: David Lloyd
     orcid: 0000-0003-1222-5912
-    affiliation: 12
+    affiliation: 13
     role: Writing - review & editing
 
   - name: Sebastian Beier
     orcid: 0000-0002-2177-8781
-    affiliation: 13
+    affiliation: 14
     role: Software
     
   - name: Vedran Kasalica
     orcid: 0000-0002-0097-1056
-    affiliation: 14
+    affiliation: 15
     role: Writing - review & editing
     
   - name: Walter Baccinelli
     orcid: 0000-0001-8888-4792
-    affiliation: 14
+    affiliation: 15
     role: Writing - review & editing
     
   - name: Mijke Jetten 
     orcid: 0000-0001-9114-2896
-    affiliation: 14
+    affiliation: 15
     role: Writing - review & editing
     
   - name: Laura Chabot 
     orcid: 
-    affiliation: 15
+    affiliation: 16
     role: Writing - review & editing
     
   - name: Grégory Gimenez
     orcid: 
-    affiliation: 16
+    affiliation: 17
     role: Writing - review & editing
     
   - name: Daniel Arend
@@ -149,32 +149,36 @@ affiliations:
     index: 9
     ror: 05sd8tv96
     
-  - name: University of Padova, Via Ugo Bassi 58/B - 35131 Padova, Italy
+  - name: Spanish National Bioinformatics Institute (INB/ELIXIR-ES)
     index: 10
+    ror: 
+    
+  - name: University of Padova, Via Ugo Bassi 58/B - 35131 Padova, Italy
+    index: 11
     ror:
     
   - name: Artic University of Norway (UiT) - Department of Chemstry, Trömsö, Norwway
-    index: 11
+    index: 12
     ror: 00wge5k78
     
   - name: ELIXIR-Hub, ELIXIR, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK
-    index: 12
+    index: 13
     ror: 
   
   - name: Institute of Bio- and Geosciences (IBG-4 Bioinformatics), Bioeconomy Science Center (BioSC), CEPLAS, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
-    index: 13
+    index: 14
     ror: 02nv7yv05
   
   - name: Health RI, Utrecht, Netherlands
-    index: 14
+    index: 15
     ror: 02xcmp898
 
   - name: CNRS - The French National Centre for Scientific Research, IFB-core siège | Villejuif
-    index: 15
+    index: 16
     ror: 
     
   - name: CNRS - The French National Centre for Scientific Research, Antenne IFB-core | Marseille
-    index: 16
+    index: 17
     ror: 
     
 date: 7 November 2025
