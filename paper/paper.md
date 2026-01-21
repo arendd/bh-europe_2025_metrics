@@ -315,7 +315,7 @@ Besides these KPIs, the following metrics are also monitored:
 
 Expenses, FTEs, services and users, number of events and training metrics are also being monitored.
 
-## ELIXIR-NL/Health-RI 
+## ELIXIR-NL / Health-RI 
 In ELIXIR-NL/Health-RI, there is an effort to create a Research Software Directory to measure the maturity of Dutch research software projects and services, among others as part of the [FAIR Metroline](https://fairmetroline.org). This directory will allow ELIXIR-NL/Health-RI to assess whether software is [FAIR](https://www.nature.com/articles/s41597-022-01710-x) and open, and GitHub KPIs can be used to support this.  [OpenEBench](https://openebench.bsc.es) is also linked where applicable. 
 
 Currently, ELIXIR-NL/Health-RI is reaching out to universities and university medical centres to ask about the software tools they use. Additionally, ELIXIR-NL/Health-RI already capture KPIs on services that form part of their national health and life sciences data infrastructure.
@@ -346,16 +346,16 @@ Key barriers surrounding KPI introduction by ELIXIR-IE:
 * Low number of services (5), lowering this as a priority action. 
 * No funders mandates to collect metrics and share metrics (but equally service funding support in Ireland is not easy to secure with few pathways for ESFRI RI funded supports at this time).
 
-## ELIXIR-ES
-ELIXIR-ES initially collects service KPIs when services apply to be an ELIXIR-ES service. Some key KPIs are also collected roughly every three years to support the Scientific Advisory Board in reviewing ELIXIR-ES services.
+## ELIXIR-ES / INB
+ELIXIR-ES collects service KPIs when bioinformatics resources apply to become an INB/ELIXIR-ES service, during the Expression of Interest phase for inclusion in the INB/ELIXIR-ES Service Delivery Plan (SDP). This selection process occurs approximately every 3 years, so the key KPIs are collected roughly every three years to support the Scientific Advisory Board in reviewing existing ELIXIR-ES services. It is important to note that all services within the SDP must undergo the selection process again, even if they were previously part of the SDP. Therefore, all services are required to submit their KPIs again during the Expression of Interest for the SDP.
 
-Key KPIs collected:
+Key KPIs collected when applying to the SDP selection process:
 
 * **Service KPIs** - these are open to the service provider to provide but can include indicators such as unique users per year, number of downloads, data traffic, etc.
-* **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services?
-* **Sustainability** - how is the service funded and for how long?
+* **Connection to ELIXIR** - how is the service connected to ELIXIR platforms, communities, focus groups, or ELIXIR commissioned services
+* **Sustainability** - how is the service funded and for how long
 
-An important factor when ELIXIR-ES is collecting KPIs is the workload this places on service providers. They try not to ask too much of the service providers, and do not always ask about KPIs, hence the decision to ask for KPIs roughly every 3 years.
+An important consideration when INB/ELIXIR-ES collects KPIs is the workload placed on service providers. They aim to minimize the burden, which is why KPIs are not requested every year. Instead, they are collected approximately every three years.
 
 ## ELIXIR-CH
 SIB is the Swiss Node of ELIXIR. Its services fall into three categories:
